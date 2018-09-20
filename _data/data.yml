@@ -24,20 +24,17 @@ sidebar:
     codewars:
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
+      - idiom: English
+        level: Professional
         
     interests:
       - item: Travelling
         link:
 
-      - item: Snowboarding
+      - item: Listening to Music
         link:
 
       - item: Cooking
